@@ -1,0 +1,53 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://gitee.com/aaron-xue/live-source/raw/master/CCTV1.png" group-title="央视",CCTV1
+http://shanxiunicom.livestr.wasu.tv/5B63686E5D575330303030303030337C3531357C317C383030307CE4B8ADE5A4AEE4B880E5A5977C687474707C74735B2F63686E5D5B74735D307C687474705B2F74735DVSDNSOOONERCOM00
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://gitee.com/aaron-xue/live-source/raw/master/CCTV2.png" group-title="央视",CCTV2
+频道2直播地址.m3u8
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="https://gitee.com/aaron-xue/live-source/raw/master/CCTV3.png" group-title="央视",CCTV3
+频道3直播地址.m3u8
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="https://gitee.com/aaron-xue/live-source/raw/master/CCTV4.png" group-title="央视",CCTV4
+频道4直播地址.m3u8
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="https://gitee.com/aaron-xue/live-source/raw/master/CCTV5.png" group-title="央视",CCTV5
+频道5直播地址.m3u8
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV6" tvg-logo="https://gitee.com/aaron-xue/live-source/raw/master/CCTV6.png" group-title="央视",CCTV6
+频道6直播地址.m3u8
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV7" tvg-logo="https://gitee.com/aaron-xue/live-source/raw/master/CCTV7.png" group-title="央视",CCTV7
+频道7直播地址.m3u8
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV8" tvg-logo="https://gitee.com/aaron-xue/live-source/raw/master/CCTV8.png" group-title="央视",CCTV8
+频道8直播地址.m3u8
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV9" tvg-logo="https://gitee.com/aaron-xue/live-source/raw/master/CCTV9.png" group-title="央视",CCTV9
+频道9直播地址.m3u8
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV10" tvg-logo="https://gitee.com/aaron-xue/live-source/raw/master/CCTV10.png" group-title="央视",CCTV10
+频道10直播地址.m3u8
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV11" tvg-logo="https://gitee.com/aaron-xue/live-source/raw/master/CCTV11.png" group-title="央视",CCTV11
+频道11直播地址.m3u8
+#EXTINF:-1 tvg-id="12" tvg-name="CCTV12" tvg-logo="https://gitee.com/aaron-xue/live-source/raw/master/CCTV12.png" group-title="央视",CCTV12
+频道12直播地址.m3u8
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV13" tvg-logo="https://gitee.com/aaron-xue/live-source/raw/master/CCTV13.png" group-title="央视",CCTV13
+频道13直播地址.m3u8
+#EXTINF:-1 tvg-id="14" tvg-name="山西卫视" tvg-logo="https://gitee.com/aaron-xue/live-source/raw/master/shanxi_.png" group-title="卫视",山西卫视
+频道14直播地址.m3u8
+#EXTINF:-1 tvg-id="15" tvg-name="安徽卫视" tvg-logo="https://gitee.com/aaron-xue/live-source/raw/master/anhui.png" group-title="卫视",安徽卫视
+频道15直播地址.m3u8
+#EXTINF:-1 tvg-id="16" tvg-name="北京卫视" tvg-logo="https://gitee.com/aaron-xue/live-source/raw/master/beijing.png" group-title="卫视",北京卫视
+频道16直播地址.m3u8
+#EXTINF:-1 tvg-id="17" tvg-name="东方卫视" tvg-logo="https://gitee.com/aaron-xue/live-source/raw/master/dongfang.png" group-title="卫视",东方卫视
+频道17直播地址.m3u8
+#EXTINF:-1 tvg-id="18" tvg-name="广东卫视" tvg-logo="https://gitee.com/aaron-xue/live-source/raw/master/guangdong.png" group-title="卫视",广东卫视
+频道18直播地址.m3u8
+#EXTINF:-1 tvg-id="19" tvg-name="湖南卫视" tvg-logo="https://gitee.com/aaron-xue/live-source/raw/master/hunan.png" group-title="卫视",湖南卫视
+频道19直播地址.m3u8
+#EXTINF:-1 tvg-id="20" tvg-name="江苏卫视" tvg-logo="https://gitee.com/aaron-xue/live-source/raw/master/jiangsu.png" group-title="卫视",江苏卫视
+频道20直播地址.m3u8
+#EXTINF:-1 tvg-id="21" tvg-name="山东卫视" tvg-logo="https://gitee.com/aaron-xue/live-source/raw/master/shandong.png" group-title="卫视",山东卫视
+频道21直播地址.m3u8
+#EXTINF:-1 tvg-id="22" tvg-name="天津卫视" tvg-logo="https://gitee.com/aaron-xue/live-source/raw/master/tianjin.png" group-title="卫视",天津卫视
+频道22直播地址.m3u8
+#EXTINF:-1 tvg-id="23" tvg-name="浙江卫视" tvg-logo="https://gitee.com/aaron-xue/live-source/raw/master/zhejiang.png" group-title="卫视",浙江卫视
+频道23直播地址.m3u8
+#EXTINF:-1 tvg-id="24" tvg-name="四川卫视" tvg-logo="https://gitee.com/aaron-xue/live-source/raw/master/sichuan.png" group-title="卫视",四川卫视
+频道24直播地址.m3u8
+#EXTINF:-1 tvg-id="25" tvg-name="黑龙江卫视" tvg-logo="https://gitee.com/aaron-xue/live-source/raw/master/heilongjiang.png" group-title="卫视",黑龙江卫视
+频道25直播地址.m3u8
+#EXTINF:-1 tvg-id="26" tvg-name="凤凰卫视" tvg-logo="https://gitee.com/aaron-xue/live-source/raw/master/fenghuangzhongwen.png" group-title="卫视",凤凰卫视
+频道26直播地址.m3u8
