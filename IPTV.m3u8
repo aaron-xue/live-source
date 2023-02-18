@@ -53,6 +53,4 @@ http://121.51.249.45/liveplay-kk.rtxapp.com/live/program/live/hljwshd/2300000/mn
 https://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
 #EXTINF:-1 tvg-id="27" tvg-name="河南卫视" tvg-logo="https://raw.githubusercontent.com/aaron-xue/live-source/main/henan.png" group-title="卫视",河南卫视
 http://121.51.249.45/liveplay-kk.rtxapp.com/live/program/live/hnws/1300000/mnf.m3u8
-#EXTINF:-1 tvg-id="28" tvg-name="曲沃电视台" tvg-logo="https://raw.githubusercontent.com/aaron-xue/live-source/main/quwo.png" group-title="地方台",曲沃电视台
-https://41428.hlsplay.aodianyun.com/tv_radio_41428/tv_channel_1203.m3u8?auth_key=1676791170-0-0-edcdd13c99992c2a4f1d1d341fc83cb1&extra_key=a1MqtScyUQrPFz8IN_mDF7bLOKOl6OCQhcYsUcxC0XYIp6xq2VYq-iYn_JW7u4DaoPAP92UYUuRDjhr8mTEdYLmDRUJoG76KPZINJVlVt22q0LrpA9BprfguxtMjUF4Xi8eVvsZAWgg4uisNlgZ1YQIaaQsM0rBzfYgrufQv-Jk
 
